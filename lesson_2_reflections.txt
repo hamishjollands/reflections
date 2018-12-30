@@ -1,7 +1,10 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-The directory contains a .git directory, however no commits will be made.
+	The directory contains a .git directory, however no commits will be made.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-The staging area controls what files will be changed in a commit
+	The staging area controls what files will be changed in a commit.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
